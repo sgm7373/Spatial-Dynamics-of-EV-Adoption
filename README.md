@@ -1,6 +1,3 @@
-# Spatial-Dynamics-of-EV-Adoption
-This project visualizes spatial patterns in EV adoption across Oregon using Tableau. It highlights regional disparities, infrastructure gaps, and socioeconomic influences using maps, charts, and dashboards to support data-driven planning and equitable expansion of electric vehicle access.
-
 # Spatial Dynamics of EV Adoption 🚗🌎
 
 A spatial analysis of Electric Vehicle (EV) adoption trends across Oregon using Tableau visualizations. The project highlights regional disparities, infrastructure gaps, and socioeconomic factors influencing EV adoption using interactive maps and dashboards.
